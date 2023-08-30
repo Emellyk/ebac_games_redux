@@ -1,3 +1,7 @@
+# Gerenciando o estado para Redux
+Realizado o fork do projeto que por padrão utiliza o useState
+E implementado o novo gerenciamento de estado com o Redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
